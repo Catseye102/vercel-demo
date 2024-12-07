@@ -147,13 +147,13 @@ export default function Home() {
                     <p className="text-gray-700">
                       &quot;This course was a game-changer for me. The practical
                       examples and hands-on projects helped me understand
-                      complex concepts easily.&quot; - Student 1
+                      complex concepts easily.&quot; - Student
                     </p>
                   </li>
                   <li className="bg-gray-100 p-4 rounded-lg shadow">
                     <p className="text-gray-700">
                       &quot;This course was instrumental in helping me gain
-                      experience in software engineering.&quot; - Student 2
+                      experience in software engineering.&quot; - Another Student
                     </p>
                   </li>
                 </ul>
