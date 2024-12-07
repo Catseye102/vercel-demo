@@ -152,9 +152,8 @@ export default function Home() {
                   </li>
                   <li className="bg-gray-100 p-4 rounded-lg shadow">
                     <p className="text-gray-700">
-                      &quot;Hasnat is an amazing instructor. His teaching style
-                      is engaging and he always makes sure everyone understands
-                      the material.&quot; - Student 2
+                      &quot;This course was instrumental in helping me gain
+                      experience in software engineering.&quot; - Student 2
                     </p>
                   </li>
                 </ul>
